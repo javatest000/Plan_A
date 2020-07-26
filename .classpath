@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Plan_A_2020_07_23/src"/>
+	<classpathentry kind="src" path="PlanA2020-07-24_002/pjt_07_23/src"/>
+	<classpathentry kind="output" path="PlanA2020-07-24_002/pjt_07_23/bin"/>
+</classpath>
